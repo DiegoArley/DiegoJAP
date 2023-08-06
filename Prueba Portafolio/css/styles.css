@@ -1,0 +1,53 @@
+h2.titulo{
+    color: #b48608; 
+    font-family: 'Droid serif', serif; 
+      font-size: 36px; font-weight: 400; 
+      font-style: italic; 
+      line-height: 44px; margin: 0 0 12px; 
+      text-align: center;
+    background-color: #e7c15770; }
+body{
+    font-size: 22px;
+    
+
+    background-image: url(https://img.freepik.com/free-photo/grunge-abstract-metal-background_1048-9885.jpg?w=740&t=st=1691155595~exp=1691156195~hmac=50cb2401cd461c58275a299dd60375dc5d246912b22dc24b9664d14190617874);
+
+    background-size: c;
+    
+}
+em{
+    color: red;
+}
+h1{     
+font-family: 'Droid serif', serif; 
+font-size: 48px; font-weight: 400; 
+font-style: italic; 
+line-height: 44px; margin: 0 0 12px; 
+text-align: center; 
+background-color: rgba(250, 235, 215, 0.425);}
+hr{
+
+    border-color: rgb(183, 130, 95);
+
+}
+
+p{
+
+     color: #FFFFFF; font-family: 'Carme', sans-serif; 
+     font-size: 24px; 
+     line-height: 24px; 
+     margin: 0 0 24px; }
+
+#crochet {size-adjust: ;
+}
+#PalabrasImportantes  {
+    background-color: rgb(231, 213, 52);
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+table.default{
+    background-color: rgba(253, 253, 253, 0.404);
+        font-family: 'Droid serif', serif; 
+        font-size: 20px; font-weight: 200; 
+        font-style: italic;     
+}
